@@ -1,5 +1,5 @@
 # block-doc
-blockchain blogs
+## A open source repo for blockchain blogs 🚀🚀
 
 
 | Serial Number | Topic | Author | Link |
